@@ -1,0 +1,7 @@
+﻿*.rar
+*.zip
+*.apk
+/build
+/app/build
+.gradle
+.idea
